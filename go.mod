@@ -1,4 +1,4 @@
-module github.com/ldez/ghactions
+module github.com/frealmyr/ghactions
 
 go 1.13
 

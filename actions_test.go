@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/google/go-github/v29/github"
-	"github.com/ldez/ghactions/event"
+	"github.com/frealmyr/ghactions/event"
 )
 
 func TestAction(t *testing.T) {
